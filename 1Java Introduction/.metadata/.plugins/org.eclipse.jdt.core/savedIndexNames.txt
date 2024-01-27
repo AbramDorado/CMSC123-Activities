@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\abram\Downloads\Java Introduction\.metadata\.plugins\org.eclipse.jdt.core
